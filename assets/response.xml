@@ -1,0 +1,55 @@
+<SOAP:Envelope xmlns:SOAP='http://schemas.xmlsoap.org/soap/envelope/'>
+    <SOAP:Header/>
+    <SOAP:Body>
+        <ns0:ZFM_MASTER_VENDOR.Response xmlns:ns0='urn:sap-com:document:sap:rfc:functions'>
+            <ZMMS001>
+                <item>
+                    <LIFNR>1</LIFNR>
+                    <LAND1>ID</LAND1>
+                    <NAME1>A</NAME1>
+                    <ORT01>SURABAYA</ORT01>
+                    <SORTL>AA</SORTL>
+                    <STRAS>AA</STRAS>
+                    <MCOD3>AA</MCOD3>
+                    <STCD1>AA</STCD1>
+                    <SIUP_NO>AA</SIUP_NO>
+                    <SIUP_DAT>A DUMMYY</SIUP_DAT>
+                    <PKP_NO>AA DUMMYY</PKP_NO>
+                    <PKP_DAT>2013-05-23</PKP_DAT>
+                    <AKONT>AA DUMMYY</AKONT>
+                    <ZTERM>Z001</ZTERM>
+                    <BANKL>AA DUMMYY</BANKL>
+                    <BANKN>AA DUMMYY</BANKN>
+                    <KOINH>AA DUMMYY</KOINH>
+                    <WITHT>AA DUMMYY</WITHT>
+                    <KET_TAX/>
+                    <WT_WITHCD>AA DUMMYY</WT_WITHCD>
+                    <EKGRP>AA DUMMYY</EKGRP>
+                </item>
+                <item>
+                    <LIFNR>2</LIFNR>
+                    <LAND1>ID</LAND1>
+                    <NAME1>B</NAME1>
+                    <ORT01>SIDOARJO</ORT01>
+                    <SORTL>BB</SORTL>
+                    <STRAS>BB</STRAS>
+                    <MCOD3>BB DUMMYYY</MCOD3>
+                    <STCD1>BB DUMMYYY</STCD1>
+                    <SIUP_NO>BB DUMMYYY</SIUP_NO>
+                    <SIUP_DAT>BB DUMMYYY</SIUP_DAT>
+                    <PKP_NO>BB DUMMYYY</PKP_NO>
+                    <PKP_DAT>BB DUMMYYY</PKP_DAT>
+                    <AKONT>BB DUMMYYY</AKONT>
+                    <ZTERM>BB DUMMYYY</ZTERM>
+                    <BANKL>BB DUMMYYY</BANKL>
+                    <BANKN/>
+                    <KOINH/>
+                    <WITHT>BB DUMMYYY</WITHT>
+                    <KET_TAX/>
+                    <WT_WITHCD>BB DUMMYYY</WT_WITHCD>
+                    <EKGRP>BB DUMMYYY</EKGRP>
+                </item>
+            </ZMMS001>
+        </ns0:ZFM_MASTER_VENDOR.Response>
+    </SOAP:Body>
+</SOAP:Envelope>

@@ -1,0 +1,8 @@
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <ZFM_MASTER_VENDOR xmlns="urn:sap-com:document:sap:rfc:functions">
+            <LIFNR xmlns=""></LIFNR>
+            <ZMMS001 xmlns=""></ZMMS001>
+        </ZFM_MASTER_VENDOR>
+    </Body>
+</Envelope>
